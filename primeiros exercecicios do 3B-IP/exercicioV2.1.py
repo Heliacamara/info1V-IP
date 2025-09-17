@@ -15,11 +15,10 @@ z=41
 #end_inputs
 
 
-#os prints vão a partir daqui
+#os prints vao a partir daqui
 
 
 print("{} e {} sao {} e {}".format(x,y,a,b))
 print("Total: {} ".format(x+b))
-print("{},{} e {} sao numeros inteiros".format(x,y,c))
+print("{} {} {} sao numeros inteiros".format(x,y,c))
 print("{} + 0 = {}".format(z,z+0))
-    

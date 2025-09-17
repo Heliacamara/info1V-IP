@@ -5,5 +5,9 @@
 
 #begin_inputs
 
-
+dia=12
+mes=11
+ano=2008
 #end_inputs
+
+print("{}/{}/{}".format(dia,mes,ano))
