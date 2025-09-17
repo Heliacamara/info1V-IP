@@ -4,7 +4,6 @@
 
 
 #begin_inputs
-
 dia=12
 mes=11
 ano=2008
