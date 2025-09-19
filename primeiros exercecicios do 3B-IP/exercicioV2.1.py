@@ -17,7 +17,6 @@ z=41
 
 #os prints vao a partir daqui
 
-
 print("{} e {} sao {} e {}".format(x,y,a,b))
 print("Total: {} ".format(x+b))
 print("{} {} {} sao numeros inteiros".format(x,y,c))
